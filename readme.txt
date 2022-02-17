@@ -1,1 +1,1 @@
-clean commit
+intermediate commit v1
