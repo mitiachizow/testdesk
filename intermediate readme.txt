@@ -1,1 +1,2 @@
 intermediate commit
+intermediate commit v2
